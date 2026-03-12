@@ -1,5 +1,4 @@
-## Hi there 👋
-
+;; shits refusing to work rn . Ill work on tjis later
 <!--
 **TheNilspacedd/TheNilspacedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
